@@ -3,3 +3,6 @@ Dette er en trygg og pedagogisk HTML-mockup laget som del av en skoleoppgave om 
 Den inneholder ingen ekte farlige lenker og skal kun brukes til læring.
 
 ---
+
+# IP Grabbing
+Nå henter knappen IPen din når du tryker på den
